@@ -1,0 +1,59 @@
+.header{
+    background-color: rgb(185, 181, 181);
+    margin-bottom: 20px;
+}
+
+.header-text{
+    color: rgb(251, 255, 25);
+    text-align: center;
+}
+
+.nav-container{
+    display: flex;
+    justify-content: center;
+}
+.nav{
+    background-color: gray;
+    margin: 2px;
+    color: black;
+}
+.img-container{
+    display: none;
+}
+
+
+.right h2{
+    color: gray;
+}
+
+.uppercase-heading{
+    text-transform: uppercase;
+}
+
+.body{
+    background-color: rgb(185, 181, 181);
+}
+
+th{
+    background-color: rgb(255, 253, 119);
+}
+.table-container{
+    display: flex;
+    justify-content: center;
+}
+.body {
+    justify-content: center;
+    
+}
+
+.footer{
+    background-color: rgb(185, 181, 181);
+}
+
+#myform{
+    display: none;
+}
+
+.btn-show{
+    cursor: pointer;
+}
